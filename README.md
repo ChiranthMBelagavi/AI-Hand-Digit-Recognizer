@@ -67,4 +67,4 @@ npm install
 # Run the React development server
 npm start
 In browser sever will automatically open to http://localhost:3000, where we can use the application.
-The live demo of App : https://drive.google.com/file/d/16WBykVAf7oEURKCvfk9L7nJAG2YnUNUW/view?usp=sharing
+The demo of AI Hand Digit Recognizer App : https://drive.google.com/file/d/16WBykVAf7oEURKCvfk9L7nJAG2YnUNUW/view?usp=sharing
